@@ -1,23 +1,18 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: 5b807963e40f5d8429de34a732de64f2
+timeCreated: 1521641499
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
-    100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
-    400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
+    100000: //RootNode
+    100002: windows
+    400000: //RootNode
+    400002: windows
+    2100000: Windows__AO.tga
+    2300000: windows
+    3300000: windows
+    4300000: windows
     9500000: //RootNode
   externalObjects: {}
   materials:

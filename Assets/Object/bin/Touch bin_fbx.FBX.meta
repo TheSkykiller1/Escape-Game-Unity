@@ -1,23 +1,17 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: f037e202e17cc064a83b76159143c19e
+timeCreated: 1521641503
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
-    100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
-    400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
+    100000: //RootNode
+    400000: //RootNode
+    2100000: Chrome _ Satin
+    2100002: Plastic Hard Matte _ Brown red
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: touch bin
     9500000: //RootNode
   externalObjects: {}
   materials:

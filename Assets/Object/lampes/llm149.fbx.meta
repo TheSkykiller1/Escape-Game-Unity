@@ -1,24 +1,24 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: 6fa2af5615d33d34687240ca5eacb91d
+timeCreated: 1521641499
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
+    100000: LAMP
     100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
+    100004: SHADE
+    400000: LAMP
     400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
-    9500000: //RootNode
+    400004: SHADE
+    2100000: Material0
+    2100002: Material1
+    2300000: LAMP
+    2300002: SHADE
+    3300000: LAMP
+    3300002: SHADE
+    4300000: LAMP
+    4300002: SHADE
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -93,7 +93,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

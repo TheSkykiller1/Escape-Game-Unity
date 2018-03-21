@@ -1,24 +1,53 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: 8496c3b0cb375eb4e86185d98d27080c
+timeCreated: 1521641500
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
-    100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
-    400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
-    9500000: //RootNode
+    100000: glass
+    100002: glass_border
+    100004: handle
+    100006: sash_1
+    100008: sash_2
+    100010: sill
+    100012: window
+    100014: //RootNode
+    400000: glass
+    400002: glass_border
+    400004: handle
+    400006: sash_1
+    400008: sash_2
+    400010: sill
+    400012: window
+    400014: //RootNode
+    2100000: material
+    2100002: glass_border1
+    2100004: handle
+    2100006: window1
+    2100008: window2
+    2100010: sill
+    2300000: glass
+    2300002: glass_border
+    2300004: handle
+    2300006: sash_1
+    2300008: sash_2
+    2300010: sill
+    2300012: window
+    3300000: glass
+    3300002: glass_border
+    3300004: handle
+    3300006: sash_1
+    3300008: sash_2
+    3300010: sill
+    3300012: window
+    4300000: glass
+    4300002: glass_border
+    4300004: handle
+    4300006: sash_1
+    4300008: sash_2
+    4300010: sill
+    4300012: window
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -93,7 +122,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

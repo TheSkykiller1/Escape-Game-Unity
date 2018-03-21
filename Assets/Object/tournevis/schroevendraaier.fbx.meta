@@ -1,24 +1,24 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: 4809d0870a53a9d47826fba2d223f150
+timeCreated: 1521641499
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
-    100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
-    400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
-    9500000: //RootNode
+    100000: handvat
+    100002: ijzereding
+    100004: //RootNode
+    400000: handvat
+    400002: ijzereding
+    400004: //RootNode
+    2100000: handvatMat
+    2100002: ijzeredingMat
+    2300000: handvat
+    2300002: ijzereding
+    3300000: handvat
+    3300002: ijzereding
+    4300000: handvat
+    4300002: ijzereding
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -93,7 +93,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

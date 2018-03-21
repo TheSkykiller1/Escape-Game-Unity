@@ -1,23 +1,16 @@
 fileFormatVersion: 2
-guid: 5c8f323ac38295f47b1864721ae4cb12
-timeCreated: 1521626210
+guid: 94d60381ffc3d6d43a0fc8577aa7c94e
+timeCreated: 1521641501
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: InteriorDoor
-    100002: //RootNode
-    100004: InteriorDoorProfile
-    400000: InteriorDoor
-    400002: //RootNode
-    400004: InteriorDoorProfile
-    2100000: InteriorDoor
-    2300000: InteriorDoor
-    2300002: InteriorDoorProfile
-    3300000: InteriorDoor
-    3300002: InteriorDoorProfile
-    4300000: InteriorDoorProfile
-    4300002: InteriorDoor
+    100000: //RootNode
+    400000: //RootNode
+    2100000: 01 - Default
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: radiator
     9500000: //RootNode
   externalObjects: {}
   materials:
