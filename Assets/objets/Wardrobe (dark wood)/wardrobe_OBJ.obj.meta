@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 0724401e4a519934995e2f85816639d8
+timeCreated: 1521626208
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: base01_parent
+    100002: parent_edges1
+    100004: parent_handle_01
+    100006: parent_handle_01_door_01
+    100008: parent_handle_02
+    100010: parent_handle_02_door_02
+    100012: parent_handle_03
+    100014: parent_handle_03_drawer_04
+    100016: parent_handle_04
+    100018: parent_handle_04_drawer_01
+    100020: parent_handle_05
+    100022: parent_handle_05_drawer_02
+    100024: parent_handle_06
+    100026: parent_handle_06_drawer_03
+    100028: parent_hanger
+    100030: parent_shelf1
+    100032: parent_shelf2
+    100034: parent_towelShelf
+    100036: //RootNode
+    400000: base01_parent
+    400002: parent_edges1
+    400004: parent_handle_01
+    400006: parent_handle_01_door_01
+    400008: parent_handle_02
+    400010: parent_handle_02_door_02
+    400012: parent_handle_03
+    400014: parent_handle_03_drawer_04
+    400016: parent_handle_04
+    400018: parent_handle_04_drawer_01
+    400020: parent_handle_05
+    400022: parent_handle_05_drawer_02
+    400024: parent_handle_06
+    400026: parent_handle_06_drawer_03
+    400028: parent_hanger
+    400030: parent_shelf1
+    400032: parent_shelf2
+    400034: parent_towelShelf
+    400036: //RootNode
+    2100000: base01_parentMat
+    2100002: parent_edges1Mat
+    2100004: parent_handle_01Mat
+    2100006: parent_handle_01_door_01Mat
+    2100008: parent_handle_02Mat
+    2100010: parent_handle_02_door_02Mat
+    2100012: parent_handle_03Mat
+    2100014: parent_handle_03_drawer_04Mat
+    2100016: parent_handle_04Mat
+    2100018: parent_handle_04_drawer_01Mat
+    2100020: parent_handle_05Mat
+    2100022: parent_handle_05_drawer_02Mat
+    2100024: parent_handle_06Mat
+    2100026: parent_handle_06_drawer_03Mat
+    2100028: parent_hangerMat
+    2100030: parent_shelf1Mat
+    2100032: parent_shelf2Mat
+    2100034: parent_towelShelfMat
+    2300000: base01_parent
+    2300002: parent_edges1
+    2300004: parent_handle_01
+    2300006: parent_handle_01_door_01
+    2300008: parent_handle_02
+    2300010: parent_handle_02_door_02
+    2300012: parent_handle_03
+    2300014: parent_handle_03_drawer_04
+    2300016: parent_handle_04
+    2300018: parent_handle_04_drawer_01
+    2300020: parent_handle_05
+    2300022: parent_handle_05_drawer_02
+    2300024: parent_handle_06
+    2300026: parent_handle_06_drawer_03
+    2300028: parent_hanger
+    2300030: parent_shelf1
+    2300032: parent_shelf2
+    2300034: parent_towelShelf
+    3300000: base01_parent
+    3300002: parent_edges1
+    3300004: parent_handle_01
+    3300006: parent_handle_01_door_01
+    3300008: parent_handle_02
+    3300010: parent_handle_02_door_02
+    3300012: parent_handle_03
+    3300014: parent_handle_03_drawer_04
+    3300016: parent_handle_04
+    3300018: parent_handle_04_drawer_01
+    3300020: parent_handle_05
+    3300022: parent_handle_05_drawer_02
+    3300024: parent_handle_06
+    3300026: parent_handle_06_drawer_03
+    3300028: parent_hanger
+    3300030: parent_shelf1
+    3300032: parent_shelf2
+    3300034: parent_towelShelf
+    4300000: base01_parent
+    4300002: parent_edges1
+    4300004: parent_handle_01
+    4300006: parent_handle_01_door_01
+    4300008: parent_handle_02
+    4300010: parent_handle_02_door_02
+    4300012: parent_handle_03
+    4300014: parent_handle_03_drawer_04
+    4300016: parent_handle_04
+    4300018: parent_handle_04_drawer_01
+    4300020: parent_handle_05
+    4300022: parent_handle_05_drawer_02
+    4300024: parent_handle_06
+    4300026: parent_handle_06_drawer_03
+    4300028: parent_hanger
+    4300030: parent_shelf1
+    4300032: parent_shelf2
+    4300034: parent_towelShelf
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

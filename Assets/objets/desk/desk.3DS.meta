@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 87577c7f1ba61204eafe2b2d82146216
+timeCreated: 1521626234
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: bureau
+    100002: Cylinder01
+    100004: //RootNode
+    100006: Line01
+    100008: Loft03
+    100010: planche02
+    100012: planche03
+    100014: planche04
+    100016: planche05
+    100018: planche06
+    100020: planche07
+    100022: planche08
+    100024: planche09
+    100026: planche1
+    100028: planche10
+    100030: planche11
+    100032: planche12
+    100034: planche13
+    100036: planche14
+    100038: portebure0
+    100040: porteburea
+    400000: bureau
+    400002: Cylinder01
+    400004: //RootNode
+    400006: Line01
+    400008: Loft03
+    400010: planche02
+    400012: planche03
+    400014: planche04
+    400016: planche05
+    400018: planche06
+    400020: planche07
+    400022: planche08
+    400024: planche09
+    400026: planche1
+    400028: planche10
+    400030: planche11
+    400032: planche12
+    400034: planche13
+    400036: planche14
+    400038: portebure0
+    400040: porteburea
+    2100000: Bois
+    2100002: metal_ Chrome
+    2300000: Cylinder01
+    2300002: Line01
+    2300004: Loft03
+    2300006: planche02
+    2300008: planche03
+    2300010: planche04
+    2300012: planche05
+    2300014: planche06
+    2300016: planche07
+    2300018: planche08
+    2300020: planche09
+    2300022: planche1
+    2300024: planche10
+    2300026: planche11
+    2300028: planche12
+    2300030: planche13
+    2300032: planche14
+    2300034: portebure0
+    2300036: porteburea
+    3300000: Cylinder01
+    3300002: Line01
+    3300004: Loft03
+    3300006: planche02
+    3300008: planche03
+    3300010: planche04
+    3300012: planche05
+    3300014: planche06
+    3300016: planche07
+    3300018: planche08
+    3300020: planche09
+    3300022: planche1
+    3300024: planche10
+    3300026: planche11
+    3300028: planche12
+    3300030: planche13
+    3300032: planche14
+    3300034: portebure0
+    3300036: porteburea
+    4300000: Loft03
+    4300002: planche1
+    4300004: planche02
+    4300006: planche05
+    4300008: planche07
+    4300010: porteburea
+    4300012: planche08
+    4300014: planche11
+    4300016: planche12
+    4300018: Line01
+    4300020: planche13
+    4300022: portebure0
+    4300024: planche14
+    4300026: Cylinder01
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
