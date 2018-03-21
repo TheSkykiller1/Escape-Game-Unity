@@ -1,12 +1,12 @@
 Escape_game_unity
 
-An escape game in VR made in Unity.
+An escape game in VR made with Unity.
 
 An Technological project for ESIEA.
 
-Autor:
+Author:
 	Arnaud Borio
-	William 
+	William Thomas
 	Stephen Leroy
 	Lucien Cavillot
 
