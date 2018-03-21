@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e39496c02365f5b44b8bc7f287891665
-timeCreated: 1521640595
+timeCreated: 1521644907
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -11,33 +11,51 @@ ModelImporter:
     100006: polka1_001
     100008: polka1_002
     100010: polka1_003
+    100012: polka1.001
+    100014: polka1.002
+    100016: polka1.003
     400000: //RootNode
     400002: komod
     400004: polka1
     400006: polka1_001
     400008: polka1_002
     400010: polka1_003
+    400012: polka1.001
+    400014: polka1.002
+    400016: polka1.003
     2100000: komod_narujn
     2100002: komod_poloski
     2100004: komod_vnutr
     2100006: niz
     2100008: ruchki
     2100010: napravlyauch
+    2100012: komod narujn
+    2100014: komod poloski
+    2100016: komod vnutr
     2300000: komod
     2300002: polka1
     2300004: polka1_001
     2300006: polka1_002
     2300008: polka1_003
+    2300010: polka1.001
+    2300012: polka1.002
+    2300014: polka1.003
     3300000: komod
     3300002: polka1
     3300004: polka1_001
     3300006: polka1_002
     3300008: polka1_003
+    3300010: polka1.001
+    3300012: polka1.002
+    3300014: polka1.003
     4300000: komod
     4300002: polka1
     4300004: polka1_001
     4300006: polka1_002
     4300008: polka1_003
+    4300010: polka1.003
+    4300012: polka1.002
+    4300014: polka1.001
     9500000: //RootNode
   externalObjects: {}
   materials:

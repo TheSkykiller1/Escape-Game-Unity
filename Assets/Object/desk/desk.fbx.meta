@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 769640939f79fbf45a8ff23aeac5890b
-timeCreated: 1521641499
+timeCreated: 1521644905
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -24,6 +24,13 @@ ModelImporter:
     100032: planche14
     100034: portebureau
     100036: portebureau01
+    100038: $$$DUMMY.bureau
+    100040: Loft03
+    100042: planche02.planche03.planche04
+    100044: planche05.planche06
+    100046: planche08.planche09.planche10
+    100048: portebure0
+    100050: porteburea
     400000: Cylinder01
     400002: //RootNode
     400004: Line01
@@ -43,6 +50,13 @@ ModelImporter:
     400032: planche14
     400034: portebureau
     400036: portebureau01
+    400038: $$$DUMMY.bureau
+    400040: Loft03
+    400042: planche02.planche03.planche04
+    400044: planche05.planche06
+    400046: planche08.planche09.planche10
+    400048: portebure0
+    400050: porteburea
     2100000: Cylinder01Mat
     2100002: Line01Mat
     2100004: planche02Mat
@@ -61,6 +75,8 @@ ModelImporter:
     2100030: planche14Mat
     2100032: portebureauMat
     2100034: portebureau01Mat
+    2100036: metal_ Chrome
+    2100038: Bois
     2300000: Cylinder01
     2300002: Line01
     2300004: planche02
@@ -79,6 +95,12 @@ ModelImporter:
     2300030: planche14
     2300032: portebureau
     2300034: portebureau01
+    2300036: Loft03
+    2300038: planche02.planche03.planche04
+    2300040: planche05.planche06
+    2300042: planche08.planche09.planche10
+    2300044: portebure0
+    2300046: porteburea
     3300000: Cylinder01
     3300002: Line01
     3300004: planche02
@@ -97,6 +119,12 @@ ModelImporter:
     3300030: planche14
     3300032: portebureau
     3300034: portebureau01
+    3300036: Loft03
+    3300038: planche02.planche03.planche04
+    3300040: planche05.planche06
+    3300042: planche08.planche09.planche10
+    3300044: portebure0
+    3300046: porteburea
     4300000: Cylinder01
     4300002: Line01
     4300004: planche02
@@ -115,6 +143,12 @@ ModelImporter:
     4300030: planche14
     4300032: portebureau
     4300034: portebureau01
+    4300036: portebure0
+    4300038: planche08.planche09.planche10
+    4300040: porteburea
+    4300042: planche05.planche06
+    4300044: planche02.planche03.planche04
+    4300046: Loft03
   externalObjects: {}
   materials:
     importMaterials: 1
