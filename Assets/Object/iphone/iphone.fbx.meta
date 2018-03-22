@@ -1,0 +1,234 @@
+fileFormatVersion: 2
+guid: 75e76055b4cd4e24886698b237c61222
+timeCreated: 1521725906
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Boole.1
+    100002: Cap:1
+    100004: Cap:1_1
+    100006: Cap:1_2
+    100008: Cap:1_3
+    100010: Cap:1_4
+    100012: Cap:1_5
+    100014: Cap:1_6
+    100016: Cap:2
+    100018: Cap:2_1
+    100020: Cap:2_2
+    100022: Cap:2_3
+    100024: Cap:2_4
+    100026: Cap:2_5
+    100028: Cap:2_6
+    100030: Capsule
+    100032: Capsule.1
+    100034: Cube.001
+    100036: Cube.1
+    100038: Extrude
+    100040: Extrude.1
+    100042: Extrude.1_1
+    100044: Extrude.2
+    100046: Extrude.2_1
+    100048: Extrude.3
+    100050: Extrude.4
+    100052: Extrude_1
+    100054: Extrude_2
+    100056: //RootNode
+    400000: Boole.1
+    400002: Cap:1
+    400004: Cap:1_1
+    400006: Cap:1_2
+    400008: Cap:1_3
+    400010: Cap:1_4
+    400012: Cap:1_5
+    400014: Cap:1_6
+    400016: Cap:2
+    400018: Cap:2_1
+    400020: Cap:2_2
+    400022: Cap:2_3
+    400024: Cap:2_4
+    400026: Cap:2_5
+    400028: Cap:2_6
+    400030: Capsule
+    400032: Capsule.1
+    400034: Cube.001
+    400036: Cube.1
+    400038: Extrude
+    400040: Extrude.1
+    400042: Extrude.1_1
+    400044: Extrude.2
+    400046: Extrude.2_1
+    400048: Extrude.3
+    400050: Extrude.4
+    400052: Extrude_1
+    400054: Extrude_2
+    400056: //RootNode
+    2100000: default
+    2100002: Mat
+    2100004: Mat.1
+    2100006: Mat.6
+    2100008: Mat.2
+    2300000: Boole.1
+    2300002: Cap:1
+    2300004: Cap:1_1
+    2300006: Cap:1_2
+    2300008: Cap:1_3
+    2300010: Cap:1_4
+    2300012: Cap:1_5
+    2300014: Cap:1_6
+    2300016: Cap:2
+    2300018: Cap:2_1
+    2300020: Cap:2_2
+    2300022: Cap:2_3
+    2300024: Cap:2_4
+    2300026: Cap:2_5
+    2300028: Cap:2_6
+    2300030: Capsule
+    2300032: Capsule.1
+    2300034: Cube.001
+    2300036: Cube.1
+    2300038: Extrude
+    2300040: Extrude.1
+    2300042: Extrude.1_1
+    2300044: Extrude.2
+    2300046: Extrude.2_1
+    2300048: Extrude.3
+    2300050: Extrude.4
+    2300052: Extrude_1
+    2300054: Extrude_2
+    3300000: Boole.1
+    3300002: Cap:1
+    3300004: Cap:1_1
+    3300006: Cap:1_2
+    3300008: Cap:1_3
+    3300010: Cap:1_4
+    3300012: Cap:1_5
+    3300014: Cap:1_6
+    3300016: Cap:2
+    3300018: Cap:2_1
+    3300020: Cap:2_2
+    3300022: Cap:2_3
+    3300024: Cap:2_4
+    3300026: Cap:2_5
+    3300028: Cap:2_6
+    3300030: Capsule
+    3300032: Capsule.1
+    3300034: Cube.001
+    3300036: Cube.1
+    3300038: Extrude
+    3300040: Extrude.1
+    3300042: Extrude.1_1
+    3300044: Extrude.2
+    3300046: Extrude.2_1
+    3300048: Extrude.3
+    3300050: Extrude.4
+    3300052: Extrude_1
+    3300054: Extrude_2
+    4300000: Cap:2_1
+    4300002: Cap:1_5
+    4300004: Extrude.1
+    4300006: Cap:2
+    4300008: Extrude_1
+    4300010: Capsule.1
+    4300012: Extrude.3
+    4300014: Extrude.4
+    4300016: Cap:2_4
+    4300018: Extrude_2
+    4300020: Cap:1_2
+    4300022: Cap:1_1
+    4300024: Extrude.2
+    4300026: Extrude
+    4300028: Extrude.1_1
+    4300030: Cap:2_6
+    4300032: Cap:1_4
+    4300034: Cap:1_6
+    4300036: Cap:2_2
+    4300038: Capsule
+    4300040: Cube.1
+    4300042: Boole.1
+    4300044: Cap:2_5
+    4300046: Cube.001
+    4300048: Cap:2_3
+    4300050: Cap:1
+    4300052: Extrude.2_1
+    4300054: Cap:1_3
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
