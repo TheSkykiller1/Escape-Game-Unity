@@ -1,23 +1,25 @@
 fileFormatVersion: 2
-guid: 930064a650b1b80408fd157443566ccb
+guid: f457fbc3223824143b87e5931a3c05fd
+timeCreated: 1521734625
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Camera
-    100002: Clock
-    100004: Lamp
-    100006: //RootNode
-    400000: Camera
-    400002: Clock
-    400004: Lamp
-    400006: //RootNode
-    2000000: Camera
-    2100000: No Name
-    2300000: Clock
-    3300000: Clock
-    4300000: Clock
+    100000: //RootNode
+    100002: Line001
+    100004: Plane001
+    400000: //RootNode
+    400002: Line001
+    400004: Plane001
+    2100000: Desk Tidy Label
+    2100002: Brown Cardboard
+    2300000: Line001
+    2300002: Plane001
+    3300000: Line001
+    3300002: Plane001
+    4300000: Plane001
+    4300002: Line001
     9500000: //RootNode
-    10800000: Lamp
   externalObjects: {}
   materials:
     importMaterials: 1
