@@ -1,23 +1,10 @@
 fileFormatVersion: 2
-guid: 930064a650b1b80408fd157443566ccb
+guid: 2a8a26ff597eda3488bb14052ae66d5e
+timeCreated: 1521734616
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
-  fileIDToRecycleName:
-    100000: Camera
-    100002: Clock
-    100004: Lamp
-    100006: //RootNode
-    400000: Camera
-    400002: Clock
-    400004: Lamp
-    400006: //RootNode
-    2000000: Camera
-    2100000: No Name
-    2300000: Clock
-    3300000: Clock
-    4300000: Clock
-    9500000: //RootNode
-    10800000: Lamp
+  fileIDToRecycleName: {}
   externalObjects: {}
   materials:
     importMaterials: 1
