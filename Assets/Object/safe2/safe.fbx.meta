@@ -77,7 +77,32 @@ ModelImporter:
     4300020: OilTank01
     4300022: Torus01
     4300024: OilTank02
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 05___Default
+    second: {fileID: 2100000, guid: 94d60381ffc3d6d43a0fc8577aa7c94e, type: 3}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cosillas
+    second: {fileID: 2100000, guid: 28ed4fa5cb828d547853b4ee7ecb1d04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cromo
+    second: {fileID: 2100000, guid: 24820f16907e17d4aa1a0dc16cecc50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_166229229
+    second: {fileID: 2100000, guid: 52b8fbb6a712f0d468c00bfe43062f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_255255255
+    second: {fileID: 2100000, guid: 01f5cceb7e616614fb946c913870a776, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
