@@ -1,23 +1,54 @@
 fileFormatVersion: 2
-guid: 930064a650b1b80408fd157443566ccb
+guid: 073aa1817410b794492640a7fde0823b
+timeCreated: 1521733037
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Camera
-    100002: Clock
-    100004: Lamp
-    100006: //RootNode
-    400000: Camera
-    400002: Clock
-    400004: Lamp
-    400006: //RootNode
-    2000000: Camera
-    2100000: No Name
-    2300000: Clock
-    3300000: Clock
-    4300000: Clock
-    9500000: //RootNode
-    10800000: Lamp
+    100000: //RootNode
+    100002: ligne roset Boss01
+    100004: ligne roset Boss02
+    100006: ligne roset Boss03
+    100008: ligne roset Boss04
+    100010: ligne roset Boss05
+    100012: ligne roset Boss06
+    100014: ligne roset Boss07
+    100016: Particle View 01
+    100018: VRayLight01
+    400000: //RootNode
+    400002: ligne roset Boss01
+    400004: ligne roset Boss02
+    400006: ligne roset Boss03
+    400008: ligne roset Boss04
+    400010: ligne roset Boss05
+    400012: ligne roset Boss06
+    400014: ligne roset Boss07
+    400016: Particle View 01
+    400018: VRayLight01
+    2100000: Boss plastic
+    2100002: Boss wire
+    2100004: Boss glass
+    2300000: ligne roset Boss01
+    2300002: ligne roset Boss02
+    2300004: ligne roset Boss03
+    2300006: ligne roset Boss04
+    2300008: ligne roset Boss05
+    2300010: ligne roset Boss06
+    2300012: ligne roset Boss07
+    3300000: ligne roset Boss01
+    3300002: ligne roset Boss02
+    3300004: ligne roset Boss03
+    3300006: ligne roset Boss04
+    3300008: ligne roset Boss05
+    3300010: ligne roset Boss06
+    3300012: ligne roset Boss07
+    4300000: ligne roset Boss01
+    4300002: ligne roset Boss02
+    4300004: ligne roset Boss03
+    4300006: ligne roset Boss04
+    4300008: ligne roset Boss05
+    4300010: ligne roset Boss06
+    4300012: ligne roset Boss07
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -92,7 +123,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 

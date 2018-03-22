@@ -1,23 +1,18 @@
 fileFormatVersion: 2
-guid: 930064a650b1b80408fd157443566ccb
+guid: 1f5996438e0d07247828e5b6e3cd3cd5
+timeCreated: 1521733040
+licenseType: Free
 ModelImporter:
   serializedVersion: 22
   fileIDToRecycleName:
-    100000: Camera
-    100002: Clock
-    100004: Lamp
-    100006: //RootNode
-    400000: Camera
-    400002: Clock
-    400004: Lamp
-    400006: //RootNode
-    2000000: Camera
-    2100000: No Name
-    2300000: Clock
-    3300000: Clock
-    4300000: Clock
-    9500000: //RootNode
-    10800000: Lamp
+    100000: (null)
+    100002: //RootNode
+    400000: (null)
+    400002: //RootNode
+    2100000: (null)Mat
+    2300000: (null)
+    3300000: (null)
+    4300000: (null)
   externalObjects: {}
   materials:
     importMaterials: 1
@@ -92,7 +87,7 @@ ModelImporter:
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  animationType: 2
+  animationType: 0
   humanoidOversampling: 1
   additionalBone: 0
   userData: 
