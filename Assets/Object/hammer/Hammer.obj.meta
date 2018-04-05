@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 20d1fc2e5fe803343be40d6a57912f82
 timeCreated: 1521733040
+=======
+guid: 98372ea535ebb844b85f73bba2ac800c
+timeCreated: 1521734621
+>>>>>>> develop
 licenseType: Free
 ModelImporter:
   serializedVersion: 22
@@ -9,7 +14,11 @@ ModelImporter:
     100002: //RootNode
     400000: default
     400002: //RootNode
+<<<<<<< HEAD
     2100000: defaultMat
+=======
+    2100000: HAMMER
+>>>>>>> develop
     2300000: default
     3300000: default
     4300000: default
