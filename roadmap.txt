@@ -1,0 +1,14 @@
+Things to do for alpha 1:
+-Box collider on all objects
+-Headset collider
+-Tracker collider
+-Insert random objects on staircase
+-Add interaction with objects
+-Add interaction with chest
+-Add interaction with the grid
+-Add climbing
+-correct size of some objects
+-fix teleport area
+-add more materials to book
+
+-test climbing
