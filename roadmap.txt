@@ -7,7 +7,6 @@ Things to do for alpha 1:
 -Add interaction with chest
 -Add interaction with the grid
 -Add climbing
--finish scene render for chimney
 -correct size of some objects
 -fix teleport area
--fix chimney pillars (add block for stopping the transparant bug)
+-add more materials to book
