@@ -10,3 +10,5 @@ Things to do for alpha 1:
 -correct size of some objects
 -fix teleport area
 -add more materials to book
+
+-test climbing
