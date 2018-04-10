@@ -1,14 +1,23 @@
 Things to do for alpha 1:
+
 -Box collider on all objects
 -Headset collider
 -Tracker collider
+
 -Insert random objects on staircase
+
 -Add interaction with objects
 -Add interaction with chest
--Add interaction with the grid
--Add climbing
--correct size of some objects
--fix teleport area
+
+-Remove some polygones (TOO MUCH POLY) 40 fps avec lag actuellement
+-fix teleport area (block teleport on map limit
 -add more materials to book
+-add card with number
+-rework floor
+-chest
+-object grab
+-deplacement sur place
+-clock
+-unite object
 
 -test climbing
