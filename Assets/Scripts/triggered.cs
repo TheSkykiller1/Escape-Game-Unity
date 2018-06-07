@@ -3,23 +3,14 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class triggered : MonoBehaviour {
-	
-    public bool openinggrille = false;
     public Transform Steel_Window;
-
-    void Update()
-    {
-        if (openinggrille) Opengrille();
-    }
-
     void OnTriggerEnter(Collider obj)
     {
         if (obj.transform.name == "tournevis")
         {
-            openinggrille = true;
+            Opengrille();
         }
     }
-
     void Opengrille()
     {
         float movement = 3.0f;
