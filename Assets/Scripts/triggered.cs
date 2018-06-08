@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class triggered : MonoBehaviour {
     public Transform Steel_Window;
+    public Transform Grabobject;
     void OnTriggerEnter(Collider obj)
     {
         if (obj.transform.name == "tournevis")
@@ -19,5 +20,10 @@ public class triggered : MonoBehaviour {
             Steel_Window.position.y,
             Steel_Window.position.z + movement
         );
+        Grabobject.position = new Vector3(
+            Grabobject.position.x,
+            Grabobject.position.y,
+            Grabobject.position.z - movement
+            );
     }
 }
