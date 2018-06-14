@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class triggered : MonoBehaviour {
     public Transform Steel_Window;
+	public Transform TriggerBlock;
     public Transform Grabobject;
     void OnTriggerEnter(Collider obj)
     {
@@ -25,5 +26,10 @@ public class triggered : MonoBehaviour {
             Grabobject.position.y,
             Grabobject.position.z - movement
             );
+		TriggerBlock.position = new Vector3(
+            TriggerBlock.position.x,
+            TriggerBlock.position.y,
+            TriggerBlock.position.z + movement
+        );
     }
 }
